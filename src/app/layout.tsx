@@ -8,7 +8,7 @@ import "slick-carousel/slick/slick-theme.css";
 import NavBar from '@/section/nav-bar';
 import { Container, Stack, Typography } from '@mui/material';
 
-import "src/locales/i18n"
+// import "src/locales/i18n"
 const inter = Inter({ subsets: ['latin'] })
 const roboto_init = Roboto({
   subsets: ["latin"],
